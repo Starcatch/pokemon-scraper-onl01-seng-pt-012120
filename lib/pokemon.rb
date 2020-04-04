@@ -5,4 +5,6 @@ class Pokemon
 
   end
   
+  
+  
 end
